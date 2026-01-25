@@ -1,0 +1,9 @@
+>>for first time github configguration
+git config --global user.name "SadSatanSama"
+git config --global color.ui auto
+
+>>essential commans
+git init
+git remote add origin https://github.com/SadSatanSama/PythonExcercise.git
+git pull origin main (to update the folder with github)
+git status (for checking the folder content)
