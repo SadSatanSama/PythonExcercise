@@ -1,0 +1,8 @@
+Regarding the feedback behind the rejection of my submiision, I'd like to say that:
+
+1. For the first submission, both "membership method" and ".get()" method was applied solely by myself. the .get() was the initial knowledge that we learnt while going through lectures regarding "Dictionary" which we utilize to retrieve any value corresponding to any key inside of a dictionary.  
+2. For the second submission, regarding the usage of ".copy()", I came to know about it from a reel I found online which I applied here to make a copy of the original extracted list as applying ".reverse()" is supposed to change the original extracted list PERMANANTLY, which we surely don't want here.
+
+3. The only thing I used AI for is the notations for every steps of these two codes and the readme.md which I can cearly see will not be accepted. Thank you for your feedback.
+
+I have resubmitted the codes once again. Pleease advise.
